@@ -1,3 +1,5 @@
+# pdf-viewer
+Looking at ways to display, transform and convert pdfs into images.
 # PdfViewer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
